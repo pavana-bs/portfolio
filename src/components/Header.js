@@ -27,7 +27,7 @@ const Header = () => {
           </li>
           <li>
             <a
-              href="https://drive.google.com/file/d/1aFl6_6TAADPai5hIHACM7322ykUVw5RF/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1sNhDM6kwzbG128pyrpzoeHwBIb0WR6qd/view?usp=drive_link"
               target="_blank"
               without
               rel="noreferrer"
@@ -53,7 +53,7 @@ const Header = () => {
             <a href="/#contact" onClick={handleToggle}>Contact</a>
           </li>
           <li>
-            <a href="https://drive.google.com/file/d/1aFl6_6TAADPai5hIHACM7322ykUVw5RF/view?usp=drive_link"
+            <a href="https://drive.google.com/file/d/1sNhDM6kwzbG128pyrpzoeHwBIb0WR6qd/view?usp=drive_link"
 >Resume</a>
           </li>
         </ul>
