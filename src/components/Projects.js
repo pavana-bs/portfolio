@@ -45,7 +45,7 @@ const Projects = () => {
       img: quiz,
       title: "Quiz App",
       desc: "Quiz App using JavaScript",
-      live: " https://github.com/pavana-rslabs/js-assignment3"
+      live: " https://github.com/pavana-rslabs/quiz_app"
     },
     {
       img: tokenlist,
